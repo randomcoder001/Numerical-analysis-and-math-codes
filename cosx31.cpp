@@ -5,8 +5,11 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
+                                        //C++ code to calculate Cos of angle in degree using Taylor series//
+  //instruction:the repetion number m can be used to set order of the approximation in Taylor series.eg,if you need 8th order approx then set 5 as repetion number m.GOOD LUCK!!!
+                                        //Coded by Jinu Raj,4th year Int.MSc Physics at Central University of Tamilnadu-India//
 
-
+      
 #include<iostream>
 #include<cmath>
 
@@ -75,4 +78,3 @@ cout<<"approx value of cosx is "<<cosx<<endl;
 return 0;
 
 }
-
