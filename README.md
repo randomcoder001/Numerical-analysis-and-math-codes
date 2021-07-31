@@ -1,1 +1,1 @@
-# Numerical-analysis-and-math-codes
+# Code for Cos x approximation c++
