@@ -1,10 +1,3 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
                                         // C++ code for approximating cosx using Taylor series//
 //Instruction:The repetition number m can be used to set the order of the approximation in the Taykor series.Eg,if you want 8th order approx,take repetition m as 5.GOOD LUCK!!!
                                  //Created By randomcoder aka Jinu Raj,4th Year Integrated MSc Physics at Central University of Tamilnadu//
