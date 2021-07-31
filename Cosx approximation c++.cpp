@@ -1,6 +1,6 @@
-                                        // C++ code for approximating cosx using Taylor series//
-//Instruction:The repetition number m can be used to set the order of the approximation in the Taykor series.Eg,if you want 8th order approx,take repetition m as 5.GOOD LUCK!!!
-                                 //Created By randomcoder aka Jinu Raj,4th Year Integrated MSc Physics at Central University of Tamilnadu//
+// C++ code for approximating cosx using Taylor series
+//Instruction:The repetition number m can be used to set the order of the approximation in the Taykor series.Eg,if you want 8th order approx,take repetition m as 5.GOOD LUCK
+//Created By randomcoder001 aka Jinu Raj,4th Year Integrated MSc Physics at Central University of Tamilnadu
  
 #include<iostream>
 #include<cmath>
